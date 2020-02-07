@@ -7,7 +7,7 @@ vector<string> split_string(string);
 // Complete the aVeryBigSum function below.
 long aVeryBigSum(vector<long> ar) {
     int x;
-    cout << xxx;
+    cout << x
     return x;
 }
 
