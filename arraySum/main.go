@@ -17,14 +17,16 @@ func simpleArraySum(ar []int32) int32 {
 	 * Write your code here.
 	 */
 	var i int
-	var a int32
+	var a, q int32
+	q = 0
 	i = 0
 	a = 0
 	for i < len(ar) {
 		a = a + ar[i]
 		i++
 	}
-	return a
+
+	return a + q
 }
 
 func main() {
