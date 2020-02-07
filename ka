@@ -1,0 +1,35 @@
+[33mcommit 2861a8603d8947c4cd64da60d9f1b8d7e175bf9a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mupstreamss/master[m[33m)[m
+Merge: d9dc31e 6e9c14d
+Author: alfi2811 <46830684+alfi2811@users.noreply.github.com>
+Date:   Fri Feb 7 20:13:52 2020 +0700
+
+    Merge pull request #2 from dwikiriswanda/verybigsum
+    
+    nambahin verybigsum.cpp
+
+[33mcommit d9dc31eb4891fd102c88953ae3f5e353207a6a97[m
+Merge: db3105c e543019
+Author: alfi2811 <46830684+alfi2811@users.noreply.github.com>
+Date:   Fri Feb 7 20:10:33 2020 +0700
+
+    Merge pull request #1 from alfi2811/arraySum
+    
+    branch ArraySum
+
+[33mcommit 6e9c14d49b2f22ec0c284e7cab224c48e9246ab9[m[33m ([m[1;31morigin/verybigsum[m[33m, [m[1;32mverybigsum[m[33m)[m
+Author: dwikiriswanda <m.dwikiriswanda@gmail.com>
+Date:   Fri Feb 7 20:03:04 2020 +0700
+
+    nambahin verybigsum.cpp
+
+[33mcommit e543019939eae78a9df3d62d8beadb6fd1cc5423[m[33m ([m[1;31mupstreamss/arraySum[m[33m)[m
+Author: alfi2811 <alfinasution64@gmail.com>
+Date:   Fri Feb 7 20:01:55 2020 +0700
+
+    branch ArraySum
+
+[33mcommit db3105ca71b5134deb0be3ff200caae6818585ae[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: alfi2811 <alfinasution64@gmail.com>
+Date:   Fri Feb 7 19:42:03 2020 +0700
+
+    first
