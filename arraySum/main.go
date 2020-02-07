@@ -18,7 +18,6 @@ func simpleArraySum(ar []int32) int32 {
 	 */
 	var i int
 	var a, q int32
-	q = 0
 	i = 0
 	a = 0
 	for i < len(ar) {
@@ -26,7 +25,7 @@ func simpleArraySum(ar []int32) int32 {
 		i++
 	}
 
-	return a + q
+	return a
 }
 
 func main() {
